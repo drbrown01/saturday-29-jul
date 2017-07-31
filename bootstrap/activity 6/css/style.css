@@ -63,6 +63,10 @@ body {
   body {
     background-color: #333;
   }
+  #sidebar {
+    margin: 20px;
+    padding: 
+  }
 
   /* The wrapper's width will be 600px */
   .wrapper {
